@@ -1,2 +1,2 @@
-# PINCE-assests
+# PINCE-media
 Media files for PINCE
